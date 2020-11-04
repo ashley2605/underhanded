@@ -1,6 +1,4 @@
 # Underhanded v1.0
-## Author: github.com/thelinuxchoice
-## Twitter: twitter.com/linux_choice
 ### Read the license before using any part from this code :) 
 
 Tool to check if an app is installed on the target device through a link.
@@ -18,12 +16,7 @@ Usage of Underhanded for attacking targets without prior mutual consent is illeg
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/underhanded
+git clone https://github.com/ashley2605/underhanded
 cd underhanded
 bash underhanded.sh
 ```
-
-### Donate!
-Pay a coffee:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
